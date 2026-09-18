@@ -211,7 +211,7 @@ export default function App() {
         </p>
         <div className="contato-links">
           <a href="mailto:ronald.assis.dev09@gmail.com" className="contato-link">E-mail</a>
-          <a href="https:/linkedin.com/in/ronald-linhares-assis" className="contato-link">LinkedIn</a>
+          <a href="https://linkedin.com/in/ronald-linhares-assis" className="contato-link">LinkedIn</a>
           <a href="https://github.com/ronald-linhares-dev09" className="contato-link">GitHub</a>
           <a href="https://wa.me/5544997177332" className="contato-link">WhatsApp</a>
         </div>
